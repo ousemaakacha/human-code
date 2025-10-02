@@ -10,7 +10,7 @@ Perché ci si mette sempre un’ora a scegliere cosa guardare la sera? Certo è 
   - Entro nell'homepage
     - Inizio selezione prodotto da vedere
     - Valutazione del tempo E del sonno
-      - SE abbiamo tempo E non abbiamo sonno ALLORA
+      - SE abbiamo tempo E non abbiamo sonno
         - Scegliamo un film
       - ALTRIMENTI SE non abbiamo tempo e abbiamo sonno
         - Scegliamo una serie TV
