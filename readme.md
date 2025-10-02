@@ -20,7 +20,7 @@ Perché ci si mette sempre un’ora a scegliere cosa guardare la sera? Certo è 
     - Cerchiamo il prodotto
       - Scrollo la lista del genere scelto
       - SE il prodotto è già visto ALLORA passo a nuovo titolo ALTRIMENTI lo scegliamo
-      - ALTRIMENTI SE dopo 20 minuti non c'è maggioranza ALLORA sceglie il proprietario del telecomando
+      - ALTRIMENTI SE dopo 20 minuti non c'è scelta ALLORA sceglie il proprietario del telecomando
     - Seleziono il prodotto
       - SE il prodtto ha buone recensioni ALLORA viene confermato
       - ALTRIMENTI cerchiamo un nuovo prodotto
